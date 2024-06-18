@@ -15,6 +15,8 @@ Identified the most common issues and their trends over time.
 Highlighted areas for product improvement.
 Evaluated customer satisfaction based on response times.
 
+![alt text](https://github.com/karatanas/BOA-Tableau-Data-Analysis.git/blob/master/BOA_Logo.png?raw=true)
+
 Note: The data used is open-source and cannot be used for legal pursuits.
 
 
